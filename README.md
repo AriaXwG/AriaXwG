@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aria@Lucky0115g
+- 👋 Hi, I’m Aria
 - 👀 I’m interested in Datan Science, Quantitative Research, Machine learning and AI
 - 🌱 I’m currently learning Business analytics and data science, machine learning
 - 💞️ I’m looking to collaborate on ...(still thinking)
